@@ -90,3 +90,13 @@ h1 {
   line-height: 12px;
   letter-spacing: 2px;
 }
+
+@media (min-width: 600px) {
+  main {
+    background-size: 978px;
+  }
+
+  .card {
+    width: 350px;
+  }
+}
